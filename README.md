@@ -1,2 +1,2 @@
 # MindfulStudent Project
-Projectshowcase
+Comprehensive mental health website for university students 
