@@ -1,2 +1,2 @@
-# projectshowcase
-Projectshowcases
+# MindfulStudent Project
+Projectshowcase
